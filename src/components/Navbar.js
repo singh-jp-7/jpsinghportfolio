@@ -25,7 +25,7 @@ export default function Navbar() {
           </a>
         </nav>
         <a
-          href="https://drive.google.com/file/d/12O_r3tBtdi-gnvG0cq6BCS7Y9tWsU9Xv/view?usp=sharing"
+          href="https://drive.google.com/file/d/1IM8QYHYH3O926q4VhzjZdhwozIqYjAYo/view?usp=sharing"
           className="inline-flex items-center box-border hover:box-content h-15 w-30 p-4 border-4  mt-4 md:mt-0">
           Download CV
           <ArrowRightIcon className="w-4 h-4 ml-1" />

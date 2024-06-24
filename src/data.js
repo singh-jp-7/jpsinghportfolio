@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Tastytrails",
+    subtitle: "React, Javascript, React Redux, Tailwind",
+    description:
+      "Engineered a feature-rich Food Ordering App with advanced searching and filtering capabilities based on ratings, promotions, and delivery SLA.",
+    image: "./project-4.gif",
+    link: "https://github.com/singh-jp-7/TastyTrails",
+  },
+  {
     title: "Four Direction",
     subtitle: "HTML, CSS, JS, Django",
     description:
@@ -70,11 +78,15 @@ export const achievements = [
 
 export const skills = [
   "JavaScript",
+  "Java",
   "React",
-  "JQuery",
+  "Typescript",
+  "React-Redux",
   "HTML",
   "CSS",
-  "Python",
-  "MySQL",
-  "Open Source"
+  "NodeJS",
+  "TailWind",
+  "Git",
+  "Webpack",
+  "SASS"
 ];

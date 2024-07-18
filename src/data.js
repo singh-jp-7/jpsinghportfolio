@@ -8,6 +8,14 @@ export const projects = [
     link: "https://github.com/singh-jp-7/TastyTrails",
   },
   {
+    title: "GPTFlix",
+    subtitle: "React, Javascript, React Redux, Tailwind, Open AI, Firebase",
+    description:
+      "Orchestrated the development of a robust Netflix Movie Recommendation System with GPT integration using ReactJs, Tailwind CSS, Redux Toolkit, and Firebase Implemented seamless user authentication and deployment processes, contributing to an engaging and personalized movie-recommending experience.",
+    image: "./project-4.gif",
+    link: "https://github.com/singh-jp-7/GPTflix",
+  },
+  {
     title: "Four Direction",
     subtitle: "HTML, CSS, JS, Django",
     description:

@@ -11,8 +11,8 @@ export const projects = [
     title: "GPTFlix",
     subtitle: "React, Javascript, React Redux, Tailwind, Open AI, Firebase",
     description:
-      "Orchestrated the development of a robust Netflix Movie Recommendation System with GPT integration using ReactJs, Tailwind CSS, Redux Toolkit, and Firebase Implemented seamless user authentication and deployment processes, contributing to an engaging and personalized movie-recommending experience.",
-    image: "./project-4.gif",
+      "Orchestrated the development of a robust Netflix Movie Recommendation System with GPT integration using ReactJs, Tailwind CSS, Redux Toolkit, and Firebase. Implemented seamless user authentication and deployment processes, contributing to an engaging and personalized movie-recommending experience.",
+    image: "./project-5.gif",
     link: "https://github.com/singh-jp-7/GPTflix",
   },
   {
